@@ -3,7 +3,7 @@
  */
 
 /**
- * @author SAYAK Ghosh
+ * @author SAYAK 
  *
  */
 public class firstprogramforgit {
@@ -12,7 +12,8 @@ public class firstprogramforgit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("First file for Git");
+		System.out.println("Second file for Git");
+		System.out.println("Third file for Git");
 
 	}
 
